@@ -1,12 +1,4 @@
 Daylight Design Resources
 =========================
 
-## Daylight Sticker Sheet
-##### Maintained by Nick Dingle
-
-[Download Sketch File](https://github.com/Brightspace/daylight-design-resources/raw/master/daylight_stickersheet.sketch)
-
-## Daylight Icons
-##### Maintained by Sarah Bracewell
-
-[Download Sketch File](https://github.com/Brightspace/daylight-design-resources/raw/master/daylight_icons.sketch)
+### Note: As of *October 1, 2020:* these sketch resources are no longer maintained; design team has moved to Adobe XD.
